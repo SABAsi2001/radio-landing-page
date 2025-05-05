@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "radio-landing-page",
   "version": "0.1.0",
   "private": true,
@@ -16,5 +17,9 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4"
+=======
+  "dependencies": {
+    "framer-motion": "^12.9.4"
+>>>>>>> 7e361f36cae8ecfd8a5df12cfdc7dcff46a122e0
   }
 }
